@@ -14,4 +14,6 @@
 - Security focuses on anything that represents value, better referred to as assets, and implements controls that ultimately increase the value of those assets. Security should not focus only on information, or data, as this is just one example of assets that represent value to organizations and therefore need to be protected based on that value.
 
 ## CIA triad
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/jochemin/CISSP--Resources-notes-/blob/main/media/CIA_triad_1.png)?raw=true)
+<p align="center">
+  <img src="media/cia_triad_1.png?raw=true" alt="CIA triad"/>
+</p>
