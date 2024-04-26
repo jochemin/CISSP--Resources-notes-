@@ -1,4 +1,7 @@
 **1. Security and Risk Management**
+- Policies:
+  - Corporate laws that allow the organization and its stakeholders to thrive.
+  - Leyes corporativas que permiten que la organización y sus partes interesadas prosperen.
 
 **2. Asset Security**
 
