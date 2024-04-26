@@ -15,5 +15,5 @@
 
 ## CIA triad
 <p align="center">
-  <img src="media/cia_triad_1.png?raw=true" alt="CIA triad"/>
+  <img src="media/CIA_triad_1.png?raw=true" alt="CIA triad"/>
 </p>
