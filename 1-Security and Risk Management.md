@@ -98,6 +98,22 @@ Import/Export Controls --> country based rules and laws implemented to manage wh
 ___
 - Privacy is the state or condition of being free from being observed or disturbed by other people    
 - Personal data is information on its own or in combination that uniquely identifies an individual
+-  Supervisory authorities are independent authorities in each EU state that investigate privacy complaints
+  
+| | Privacy key roles
+| --- | --- |
+| Data Owners | Owners need to have clearly defined accountabilities including: Defining classification       Approving access       Retention and destruction  Different types of owners:       Data owners       Process owners       System owners  Companies that collect personal data about customers are accountable for the protection of the data.
+| Data Custodians | Need to have clearly defined responsibilities  Protect data based on input of the owners.  Custodians also need tools, training, resources, etc. And who provides all this? Typically the owners.
+| Data Processors | Need to have clearly defined responsibilities.  Processes personal data on behalf of the controller / owner.
+|Data Subjects | Individual to whom personal data relates
 
-    
-    
+
+| | Key privacy regulations
+| --- | --- |
+| GDPR | A single set of rules will apply to all EU member states       Each state establishes an independent Supervisory Authority (SA) to hear and investigate complaints       Data subjects shall have the right to lodge a complaint with a SA       Seven principles describe lawful processing of personal data:       Lawfulness, fairness, and transparency       Purpose limitation       Data minimization       Accuracy       Storage limitation       Integrity and confidentiality (security)       Accountability       Privacy breaches must be reported within 72 hours
+| United States |Gramm–Leach–Bliley Act (GLBA)       Health Insurance Portability and Accountability Act (HIPAA)       Sarbanes–Oxley Act (SOX)       Children’s Online Privacy Protection Act (COPPA)       California Privacy Rights Act of 2020C
+| Canada | Personal Information Protection and Electronic Documents Act (PIPEDA)
+| Argentina | Personal Data Protection Law Number 25,326 (PDPL)
+| South Korea | Personal Information Protection Act (PIPA)
+| Australia | Privacy Act       Australian Privacy Principles (APPs)
+
