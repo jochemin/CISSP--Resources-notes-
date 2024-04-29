@@ -73,5 +73,31 @@ ___
 | --- | --- |
 | Due Care |Accountable protection of assets based on the goals and objectives of the organization  This definition aligns what security should be doing with what the organization should be doing. It aligns accountable protection of assets based on the goals and objectives of the organization. This is what due care means from a security perspective.
 |Due Diligence | Ability to prove due care to stakeholders—upper management, regulators, customers, shareholders, etc.  Due diligence is what is done to prove due care on a regular basis to organization stakeholders.
+___
 
-Paro en la 1.4.1 Compliance with Contractual, Legal, and Industry Standards and Regulatory Requirements
+ Controls should align with compliance requirements    
+ Legal, privacy, and audit/compliance functions are usually the best sources to determine compliance requirements
+
+|| Protects
+| --- | --- |
+| Trade Secret | Business information
+| Patent | Functional innovations Novel idea/inventions
+| Copyright | Expression of an idea embodied in a fixed medium (books, movies, songs, etc.)YesSet period of timeCopying or substantially similar work
+| Trademark |Color, sound, symbol, etc. used to distinguish one product/ company from another
+___
+Import/Export Controls --> country based rules and laws implemented to manage which products, technologies and information can move in and out of those countries.
+  - The Wassenaar Arrangement
+    - The Wassenaar Arrangement was put in place to manage the risk that cryptography poses, while still facilitating trade. It allows certain countries to exchange and use cryptography systems of any strength, while also preventing the acquisition of these items by terrorists.
+  - International Traffic in Arms Regulations (ITAR)
+    - This is a US regulation that was built to ensure control over any export of items such as missiles, rockets, bombs, or anything else existing in the United States Munitions List (USML) (https://​www.ecfr.​gov/cgi-​bin/text-​idx?node=​pt22.1.121). The responsible agency is the US Department of State, Directorate of Defense Trade Controls (DDTC).
+  - Export Administration Regulations (EAR)
+    - EAR predominantly focuses on commercial-use related items like computers, lasers, marine items, and more. However, it can also include items that may have been designed for commercial use but actually have military applications. The responsible agency is the US Department of Commerce, Bureau of Industry and Security (BIS).
+- Transborder data flow laws restrict the transfer of data across country borders    
+- When sharing data across borders, applicable laws must be considered    
+- Enforcement of requirements in one country may not apply to other countries
+___
+- Privacy is the state or condition of being free from being observed or disturbed by other people    
+- Personal data is information on its own or in combination that uniquely identifies an individual
+
+    
+    

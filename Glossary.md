@@ -2,7 +2,9 @@
 - Policies:
   - Corporate laws that allow the organization and its stakeholders to thrive.
   - Leyes corporativas que permiten que la organización y sus partes interesadas prosperen.
-
+- ITAR --> International Traffic in Arms Regulations
+- EAR --> Export Administration Regulations
+- GDPR --> General Data Protection Regulation
 **2. Asset Security**
 
 **3. Security Architecture and Engineering**
