@@ -1,3 +1,5 @@
+## Domain 1 - Security and Risk Management 
+
 - Ethics are based on doing nothing that is harmful to anyone else    
 - For organizations to have consistent ethics, they must be codified in corporate laws (policies)
 
