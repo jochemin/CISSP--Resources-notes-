@@ -53,6 +53,11 @@ Regardless of the framework, model, or methodology used, the risk management pro
   - Harrison–Ruzzo–Ullman Model
     - focuses on the integrity of access rights via a finite set of rules available to edit the access rights of a subject. It adds the ability to add generic rights to groups of individuals.
     
-      
-    
-    
+- Certification and accreditation
+  -   Certification is the comprehensive technical analysis of a solution to confirm it meets the desired needs.    
+  -   Accreditation is management’s official sign-off of certification for a predetermined period of time.
+-   Evaluation Criteria Systems
+    -   Trusted Computer System Evaluation Criteria
+    -   Information Technology Security Evaluation Criteria
+    -   Common Criteria (ISO standard)
+        -   Evaluation Assurance Level (sophos xg tiene EAL4+)

@@ -67,7 +67,8 @@
 - IRM --> Information Rights Management (DRM subset)
 - DLP --> Data Loss Prevention
 **3. Security Architecture and Engineering**
-
+- TCSEC --> Trusted Computer System Evaluation Criteria. Also known as the Orange Book, is the first evaluation criteria system.
+- ITSEC --> Information Technology Security Evaluation Criteria. applies to networked environments and measures functional and assurance elements separate from one another.
 
 **4. Communication and Network Security**
 
