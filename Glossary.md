@@ -57,9 +57,15 @@
 - ERM --> Enterprise Risk Management
 - RMF --> Risk Managemente Framework
 - NIST --> the National Institute of Standards and Technology
-- 
-**2. Asset Security**
 
+**2. Asset Security**
+- RBAC --> Role Based Access Control
+- DRP --> Digital Rights Protection
+- DLP --> Data Loss Prevention
+- DRM --> Digital Rights Management
+- DMCA --> Digital Millennium Copyright Act
+- IRM --> Information Rights Management (DRM subset)
+- DLP --> Data Loss Prevention
 **3. Security Architecture and Engineering**
 
 
